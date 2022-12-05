@@ -1,0 +1,21 @@
+{
+  "name": "CypressAutomation_Demoblaze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@cypress/xpath": "^2.0.3",
+    "cypress": "^11.2.0",
+    "cypress-slow-down": "^1.2.1"
+  },
+  "dependencies": {
+    "cypress-xpath": "^2.0.1",
+    "typescript": "^4.9.3"
+  }
+}
